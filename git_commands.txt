@@ -8,13 +8,13 @@
    8 git commit -m "added all files"
    9 git remote -v
   10 git status
-  11 git remote add origin https://github.com/Piyushkalamkar/Portfolio.git
+
   12 git remote -v
-  13 git remote set-url origin https://{Key}/Piyushkalamkar/Portfolio.git
+ 
   14 git remote -v
   15 git status
   17 git push origin master
-  18 git remote set-url origin https://{Key}@github.com/Piyushkalamkar/Portfolio.git
+
   19 git push origin master
   20 clear
 
