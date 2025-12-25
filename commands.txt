@@ -1,0 +1,19 @@
+ 40 git push origin master
+  41 clear
+  42 git push origin master
+  43 git add git_commands.txt
+  44 git commit -m "removed PAT"
+  45 git push origin master
+  46 git add git_commands.txt
+  47 git commit -m "removed PAT"
+  48 git push origin master
+  49 git add git_commands.txt
+  50 git commit -m "removed PAT"
+  51 git push origin master
+  52 clear
+  53 git rm git_commands.txt
+  54 git commit -m "Remove sensitive file"
+  55 git push origin master
+  56 git push origin master
+  57 git remote -v
+  58 git push origin master
