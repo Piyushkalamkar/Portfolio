@@ -13,11 +13,9 @@
   13 git remote set-url origin https://{Key}/Piyushkalamkar/Portfolio.git
   14 git remote -v
   15 git status
-  16 git origin push master
   17 git push origin master
   18 git remote set-url origin https://{Key}@github.com/Piyushkalamkar/Portfolio.git
   19 git push origin master
   20 clear
-  21 history
-  22 cleat
+
   23 clear
