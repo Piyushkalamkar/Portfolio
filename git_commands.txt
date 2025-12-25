@@ -1,4 +1,4 @@
-1 try { . "c:\Users\pshka\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+
    2 git init
    3 git status
    4 git add .
@@ -10,12 +10,12 @@
   10 git status
   11 git remote add origin https://github.com/Piyushkalamkar/Portfolio.git
   12 git remote -v
-  13 git remote set-url origin https://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/Piyushkalamkar/Portfolio.git
+  13 git remote set-url origin https://{Key}/Piyushkalamkar/Portfolio.git
   14 git remote -v
   15 git status
   16 git origin push master
   17 git push origin master
-  18 git remote set-url origin https://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@github.com/Piyushkalamkar/Portfolio.git
+  18 git remote set-url origin https://{Key}@github.com/Piyushkalamkar/Portfolio.git
   19 git push origin master
   20 clear
   21 history
